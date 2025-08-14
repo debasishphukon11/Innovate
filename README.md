@@ -7,7 +7,6 @@ This project is ideal for beginners to understand basic HTML structure, CSS styl
 
 ## 📸 Preview
 ![Landing Page Preview](ss.png)  
-*(Replace `preview.png` with your actual screenshot)*
 
 ---
 
@@ -18,10 +17,3 @@ This project is ideal for beginners to understand basic HTML structure, CSS styl
 - Uses only HTML and CSS (no frameworks)
 
 ---
-
-## 📂 Project Structure
-simple-landing-page/
-├── index.html
-├── style.css
-└── images/
-└── (your images here)
